@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/gravel", "weight": 18 },
+            		{ "model": "block/gravel1", "weight": 16 },
+			{ "model": "block/gravel2", "weight": 30 },
+			{ "model": "block/gravel3", "weight": 18 },
+                        { "model": "block/gravel4", "weight": 9 },
+                        { "model": "block/gravel5", "weight": 9 }
+        ]
+    }
+}

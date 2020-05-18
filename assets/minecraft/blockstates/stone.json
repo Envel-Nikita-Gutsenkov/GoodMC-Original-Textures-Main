@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stone", "weight": 19 },
+			{ "model": "block/stone1", "weight": 1 },
+			{ "model": "block/stone2", "weight": 20 },
+			{ "model": "block/stone3", "weight": 20 },
+			{ "model": "block/stone4", "weight": 20 },
+            { "model": "block/stone_mirrored" },
+            { "model": "block/stone", "y": 180 },
+            { "model": "block/stone_mirrored", "y": 180 }
+        ]
+    }
+}

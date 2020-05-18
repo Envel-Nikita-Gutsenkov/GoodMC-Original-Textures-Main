@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "snowy=false": [
+			{ "model": "block/podzol" },
+			{ "model": "block/podzol1" },
+			{ "model": "block/podzol2" }
+			],
+        "snowy=true": { "model": "block/grass_snowed" }
+    }
+}
